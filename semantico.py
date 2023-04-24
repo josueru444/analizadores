@@ -1,4 +1,4 @@
-> Javier:
+
 import os
 import re
 import tkinter as tk
@@ -8,8 +8,6 @@ from tkinter.scrolledtext import ScrolledText
 import tkinter.ttk as ttk
 from ply import *
 import time
-
-
 
 
 root = tk.Tk()
